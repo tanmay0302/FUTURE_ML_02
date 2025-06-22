@@ -12,7 +12,6 @@
 - [📈 Visual Insights](#-visual-insights)
 - [🧠 Skills Gained](#-skills-gained)
 - [📂 File Structure](#-file-structure)
-- [🔗 GitHub Link](#-github-link)
 
 ---
 
